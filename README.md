@@ -3,7 +3,7 @@ The Arabic Poetry Dataset is a rich and diverse resource, containing over 70,000
 
 This project leverages the dataset to build a custom chatbot capable of answering queries about Arabic poetry, including poet names, eras, and poetic meters, with high accuracy and contextual relevance. By utilizing Retrieval-Augmented Generation (RAG), the chatbot combines semantic search with the power of GPT-based models to retrieve relevant information and generate accurate, context-aware responses.
 
-Features 
+# Features 
 1. **Arabic Poetry Dataset**:
    * Includes metadata like poet names, eras, poetic meters, and poem titles.
    * Enables rich exploration of Arabic poetry through advanced querying techniques.
